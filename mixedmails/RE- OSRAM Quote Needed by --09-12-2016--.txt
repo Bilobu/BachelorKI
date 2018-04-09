@@ -1,0 +1,84 @@
+﻿   From: "OSRAM Webmaster" <IMCEAEX-_O=SYLVANIA_OU=DE-MCH_CN=RECIPIENTS_CN=WEBMASTER@eurprd07.prod.outlook.com>
+     To: "OSRAM OS Customer Service Hotline" <support@osram-os.com>
+   Date: 12.09.2016 20:16:59
+Subject: --- REMINDER ---   OSRAM Quote Needed by **09/12/2016**
+Attachments: image001.png (1.199)
+---------------------------------------------------------------------------------------------------------------
+Dear Ladies and Gentleman,
+
+below you will find a request from our customer. Please forward the required information as soon as possible.
+
+With best regards
+
+OSRAM GmbH
+mailto:webmaster@osram.com
+http://www.osram.com<http://www.osram.com/>
+
+OSRAM GmbH: Chairman of the Supervisory Board: Peter Bauer; Managing Directors: Dr. Olaf Berlien (Chairman), Ingo Bank, Dr. Stefan Kampmann;
+Registered office: Munich; Commercial registry: Munich, HRB 201526; WEEE-Reg.-No. DE 71568000
+
+
+From: Villalobos, Rodrigo [mailto:rodrigo.villalobos2@hp.com]
+Sent: Monday, September 12, 2016 4:27 PM
+To: OSRAM Webmaster <webmaster@osram.com>
+Subject: RE: OSRAM Quote Needed by **09/12/2016**
+
+Hi OSRAM Team,
+
+Do you have any update?
+
+Due date is today, thank you!
+
+Best Regards,
+
+Rodrigo Villalobos
+Procurement Engineer Jr.
+Board Loadable Components (BLC)
+rodrigo.villalobos2@hp.com<mailto:rodrigo.villalobos2@hp.com>
+HP Inc.
+Zapopan, Jalisco, México
+ |CONFIDENTIAL
+
+"This email may contain confidential or proprietary information of HP Inc.. Prior to forwarding this email or any confidential or proprietary information contained here, you must ensure that the intended HP-internal recipients have a business "need-to-know" and/or have been designated by the author as approved recipients. Do not distribute outside HP Inc. or to any external third party without the express permission of the author."
+. Please consider the environment before printing this e-mail.
+
+From: Villalobos, Rodrigo
+Sent: jueves, 08 de septiembre de 2016 10:07 a.m.
+To: 'contact@osram.com' <contact@osram.com<mailto:contact@osram.com>>
+Cc: Ortega, Francisco (CDPS BLC) <franciscoo@hp.com<mailto:franciscoo@hp.com>>
+Subject: OSRAM Quote Needed by **09/12/2016**
+
+Hello OSRAM Team!,  Due Date September/12/2016
+
+As part of HP's engagement with the ODMs, the ODMs provide various circuit solutions (building blocks) to HP for consideration as part of program feasibility.
+
+The architectural hardware team and marketing team review those proposals, and they solicit support from our team to provide component pricing to roll-up the total solution costs.  Then the various circuit solutions are benchmarked on features and cost.
+Since this activity is within the concept/feasibility phase, we view this as a high-level activity and preliminary to any design-in or negotiations we may do after a program has solidified.  Your participation is vital and valuable toward HP's determination of future products and features.
+Your timely response and information is much appreciated!
+
+Can you help us with a quote for these parts?
+
+Description     Manufacturer ID Manufacturer PN
+DIODE, SMT, HIGH PWR, IR OSLUX, INFRARED EMITTER, 810nm, 2-PAD  OSRAM   SFH 4780S
+
+
+If you already have a price established for, or agreed with a particular HP Business Group, please provide such price (A recent quote, A rebate price etc).
+Our team may not know of such interactions or price agreements.
+
+Related information:
+Platform: Phablet application, but no CM-ODM is defined/awarded at this point.
+EAU: please use 500K units/yr  as reference only
+
+Rodrigo Villalobos
+Procurement Engineer Jr.
+Board Loadable Components (BLC)
+rodrigo.villalobos2@hp.com<mailto:rodrigo.villalobos2@hp.com>
+HP Inc.
+Zapopan, Jalisco, México
+ |CONFIDENTIAL
+
+"This email may contain confidential or proprietary information of HP Inc.. Prior to forwarding this email or any confidential or proprietary information contained here, you must ensure that the intended HP-internal recipients have a business "need-to-know" and/or have been designated by the author as approved recipients. Do not distribute outside HP Inc. or to any external third party without the express permission of the author."
+. Please consider the environment before printing this e-mail.
+
+
+

@@ -1,0 +1,74 @@
+﻿   From: Gunnar.Keding@hitex.de
+     To: "Burgmair, Annette" <Annette.Burgmair@osram-os.com>
+   Date: 12.09.2017 13:49:25
+Subject: FW: Anfrage LZ und Preis(e) /LEDs
+Attachments: image007.jpg (1.083)
+         image008.jpg (1.088)
+         image009.jpg (1.076)
+------------------------------------------------------------
+Hallo Frau Burgmair,
+
+haben Sie schon Infos für uns?
+
+Viele Grüße
+Gunnar Keding
+
+From: Keding Gunnar (HTX)
+Sent: Thursday, September 07, 2017 2:33 PM
+To: 'annette.burgmair@osram-os.com'
+Cc: Reith Richard (HTX); Mayer Guenther (HTX EN HE)
+Subject: Anfrage LZ und Preis(e) /LEDs
+
+Sehr geehrte Frau Burgmair,
+
+ich habe Ihre Kontaktdaten von meinem Kollegen Hr. Günther Mayer aus der Hardware-Entwicklung.
+
+Wir sind eine 100%ige Tochter der Infineon Technologies AG und haben für eine aktuelle Prototypen-Produktion im Einkauf ein Beschaffungsproblem für folgende Bauteile:
+
+          ca 60 Stck  LED RED 2.05V, 16lm, 100mA OSRAM GR DASPA1.23-FUGR-26-1
+          (Hitex-Art.-Nr. 00.96.0229.0)
+
+          ca 60 Stck  LED YELLOW 2.15V, 14lm, 100mA OSRAM GY DASPA1.23-FSFU-36-1
+          (Hitex-Art.-Nr. 00.96.0230.0)
+
+          ca 600 Stck  LED WHITE 5000k, 3V, 33lm, 100mA OSRAM GW DASPA1.EC-GUHQ-5H7I-1
+          (Hitex-Art.-Nr. 00.96.0231.0)
+
+In der Distribution finden wir mit diesen Bin-Kennungen kaum oder gar keine Lagerware.
+
+Können Sie uns vielleicht helfen, bei den ersten beiden Positionen evtl. sogar mit einer Musterlieferung?
+
+Danke im Voraus für Ihre Mühe.
+
+Viele Grüße
+------------------------------------------------------------------------------------------------
+Gunnar Keding
+Hitex GmbH
+- Purchasing -
+Greschbachstr. 12
+76229 Karlsruhe
+GERMANY
+
+Phone          +49-721-9628-151
+Fax              +49-721-9628-155
+E-Mail           gunnar.keding@hitex.de<mailto:gunnar.keding@hitex.de>
+Internet          www.hitex.com<https://emea01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.hitex.com%2F&data=02%7C01%7C%7C027cb86fc5c247ccc36f08d4f9dcb443%7Cec1ca250c2344d56a76b7dfb9eee0c46%7C0%7C0%7C636408173947209154&sdata=0dteS9el5XXYOTWQl5Jxi0g0sjd%2FYr3OMv5Z2ubaeHA%3D&reserved=0>
+Online Shop  www.ehitex.de<https://emea01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.ehitex.de%2F&data=02%7C01%7C%7C027cb86fc5c247ccc36f08d4f9dcb443%7Cec1ca250c2344d56a76b7dfb9eee0c46%7C0%7C0%7C636408173947209154&sdata=CDXSdqQ%2B0zDRmTh4o2x8DX1xNflw0jrNDkmX%2Bp%2F3Sok%3D&reserved=0>
+
+Visit us on LinkedIn, Xing, YouTube
+
+ <https://emea01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww2.hitex.com%2Fe%2F62422%2Flinkedin%2F22bkt9%2F179245798&data=02%7C01%7C%7C027cb86fc5c247ccc36f08d4f9dcb443%7Cec1ca250c2344d56a76b7dfb9eee0c46%7C0%7C0%7C636408173947209154&sdata=kopMCi8nYF1rOmj2JWeXOZ78gAO0bBvrbVSXjZYBGJM%3D&reserved=0>      <https://emea01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww2.hitex.com%2Fe%2F62422%2Fxing%2F22bktc%2F179245798&data=02%7C01%7C%7C027cb86fc5c247ccc36f08d4f9dcb443%7Cec1ca250c2344d56a76b7dfb9eee0c46%7C0%7C0%7C636408173947209154&sdata=FFHsdLwiPEVKjWo17cJJ55WEkuVSSfqHFm7b7Zd7Ze4%3D&reserved=0>      <https://emea01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww2.hitex.com%2Fe%2F62422%2Fyoutube%2F22bktf%2F179245798&data=02%7C01%7C%7C027cb86fc5c247ccc36f08d4f9dcb443%7Cec1ca250c2344d56a76b7dfb9eee0c46%7C0%7C0%7C636408173947209154&sdata=wIeA58ERvK%2Fo0qabNpZz7EWlTzA6yNZZ0x0D3CXsmVg%3D&reserved=0>
+------------------------------------------------------------------------------------------------
+Managing Director: Jörg Stender
+Headquarters: Karlsruhe
+Commercial Registry: Mannheim, HRB 110209
+------------------------------------------------------------------------------------------------
+Important Note: This e-mail may contain trade secrets or privileged,
+undisclosed or otherwise confidential information. If you have received
+this e-mail in error, you are hereby notified that any review, copying or
+distribution of it is strictly prohibited. Please inform us immediately and
+destroy the original transmittal. Thank you for your cooperation.
+------------------------------------------------------------------------------------------------
+.  'ECOmise IT' - keep this e-mail paperless
+
+

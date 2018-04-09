@@ -1,0 +1,119 @@
+﻿   From: "Enzberger, Julia" <Julia.Enzberger@osram-os.com>
+     To: "OSRAM OS Customer Service Hotline" <support@osram-os.com>
+   Date: 07.07.2017 12:08:15
+Subject: FW: Angebotsanfrage Laserdioden
+-------------------------------------------------------------------
+
+
+From: ABS GmbH [mailto:info@abs-jena.de]
+Sent: Friday, July 07, 2017 1:04 PM
+To: Enzberger, Julia <Julia.Enzberger@osram-os.com>
+Subject: Re: Angebotsanfrage Laserdioden
+
+
+Sehr geehrte Frau Enzberger,
+
+vielen Dank für die schnelle Antwort.
+
+Ich werde mich mit ihren Distributionspartnern in Verbindung setzen. Die Kontaktdaten sind ja auf ihrer Internetseite ersichtlich.
+
+
+Mit freundlichen Grüßen
+
+M.Eng. Maik Schütze
+Entwicklungsingenieur Hardware
+ABS GmbH Jena
+
+============================================================
+ABS Gesellschaft für Automatisierung, Bildverarbeitung und Software mbH
+Stockholmer Straße 3, 07747 Jena
+Tel.:  +49 (3641) 2226-0
+Fax.: +49 (3641) 2226-11
+www.kameras.abs-jena.de<http://www.kameras.abs-jena.de>  E-Mail:  info@abs-jena.de<mailto:info@abs-jena.de>
+=============================================================
+GF: Dr. Günter Uhlrich // Amtsgericht Jena HRB 200.090
+
+
+From: OSRAM OS Customer Service Hotline<mailto:support@osram-os.com>
+Sent: Friday, July 07, 2017 11:12 AM
+To: ABS GmbH<mailto:info@abs-jena.de>
+Cc: Bauer, Michael<mailto:Michael.Bauer@osram-os.com>
+Subject: RE: Angebotsanfrage Laserdioden
+
+Sehr geehrter Herr Schütze,
+
+vielen Dank für Ihre Anfrage.
+
+Ein Direktbezug ist bei uns leider nicht möglich. Bitte wenden Sie sich dazu an einen unserer Distributionspartner, die Fa. Laser Components oder Chips4Light. Kontaktdaten kann ich Ihnen bei Bedarf gerne zusenden.
+
+Die PL TB450B ist abgekündigt und nicht mehr für neue Designs gedacht.
+Die PLT5 450B ist verfügbar und bei unseren Distributoren bestellbar.
+
+Wenn Sie darüber hinaus eine Beratung benötigen, stehen wir Ihnen gerne zur Verfügung. Könnten Sie mir dafür bitte noch ein paar Infos über Ihr Projekt/ Ihre Anwendung sowie die Jahresstückzahl und den Produktionsstart senden ? Vielen Dank!
+Sie können uns auch gerne bei technischen Fragestellungen kontaktieren.
+
+
+Mit freundlichem Gruß / Kind Regards
+Julia Enzberger
+Working Student
+Technical Customer Support
+Europe & Emerging Markets
+Sales
+---------------------------------------------------------
+OSRAM Opto Semiconductors GmbH
+Leibnizstraße 4
+93055 Regensburg, Germany
+
+mailto:julia.enzberger@osram-os.com
+www.osram-os.com<https://emea01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.osram-os.com%2F&data=02%7C01%7C%7C74e0359509b743c502cd08d4c527d512%7Cec1ca250c2344d56a76b7dfb9eee0c46%7C0%7C0%7C636350222246416259&sdata=7W2xQIFK9unNlF4lIutgdqXM7afcB5COSQOpfudKCP0%3D&reserved=0>
+
+OSRAM Opto Semiconductors GmbH; Chairman of the Supervisory Board: Dr. Olaf Berlien; Managing Directors: Aldo Kamper, Ingrid Jaegering; Registered office: Regensburg, Germany; Commercial registry: Local court Regensburg, HRB 8522
+
+
+
+
+
+
+From: ABS GmbH [mailto:info@abs-jena.de]
+Sent: Thursday, July 06, 2017 11:34 AM
+To: OSRAM OS Customer Service Hotline <support@osram-os.com<mailto:support@osram-os.com>>
+Subject: Angebotsanfrage Laserdioden
+
+Sehr geehrte Damen und Herren,
+
+für eine Entwicklung in unserem Hause haben wir geplant Laserdioden unterschiedlicher Leistungsklassen mit einer Wellenlänge von ca. 450nm einzusetzen.
+
+Unser Konzept ist derzeit für Laserdioden mit einem TO-18 Gehäuse ausgelegt.
+
+Von Interesse für uns wären Verfügbarkeiten, Lieferzeiten und Preise für die folgenden Typen:
+
+- PL TB450B (450nm; 1,6W)
+- PLT5 450B (450nm; 80mW)
+
+Speziell für die Laserdiode PL TB450B stellt sich die Frage ob sich diese im Abkündigungsprozess bzw. im Entstehungsprozess befindet.
+
+Für erste mechanische und optische Tests rechnen wir mit einer geringen Stückzahl. Angebote wären für folgende Stückzahlen von Interesse:
+- 1 Stk.
+- 10 Stk.
+- 25 Stk.
+- 100 Stk.
+- 500 Stk.
+
+Ich hoffe Sie können mir bei den gestellten Fragen weiter helfen und bitte Sie uns ein entsprechendes Angebot zukommen zu lassen.
+
+
+Mit freundlichen Grüßen
+
+M.Eng. Maik Schütze
+Entwicklungsingenieur Hardware
+ABS GmbH Jena
+
+============================================================
+ABS Gesellschaft für Automatisierung, Bildverarbeitung und Software mbH
+Stockholmer Straße 3, 07747 Jena
+Tel.:  +49 (3641) 2226-0
+Fax.: +49 (3641) 2226-11
+www.kameras.abs-jena.de<https://emea01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.kameras.abs-jena.de&data=02%7C01%7C%7C74e0359509b743c502cd08d4c527d512%7Cec1ca250c2344d56a76b7dfb9eee0c46%7C0%7C0%7C636350222246426267&sdata=GH2bGztojlm0%2BAMIMNta9Z8ib5c4Ewqmzx4fT%2B4PTus%3D&reserved=0>  E-Mail:  info@abs-jena.de<mailto:info@abs-jena.de>
+=============================================================
+GF: Dr. Günter Uhlrich // Amtsgericht Jena HRB 200.090
+
